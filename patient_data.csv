@@ -1,0 +1,7 @@
+disease,sex,blood_pressure,cholesterol,heart_rate,smoker,diabetes,family_history,symptom_1,symptom_2,age,Outcome
+heart_disease,0,140,220,75,1,1,1,1,0,65,
+flu,1,120,180,68,0,0,0,0,1,42,
+heart_disease,0,150,250,82,1,1,1,1,1,78,
+healthy,1,110,170,60,0,0,0,0,0,30,
+diabetes,0,130,210,70,0,1,0,1,0,55,
+healthy,1,115,160,72,0,0,0,0,0,25,
